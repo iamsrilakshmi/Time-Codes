@@ -7,7 +7,7 @@ This is just a beginning.
 More codes will be added in the following days.
 
 ---
-## [1.TIME CONVERSION]()
+## [1.TIME CONVERSION](https://github.com/srilakshmiimhskalirs/Time-Codes/blob/master/Time%20Conversion%20.py)
 
 Gets 2 input from Users until the user chooses to quit/end the program.
 
