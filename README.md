@@ -1,4 +1,4 @@
-# Time-Codes
+# [TIME CODES](https://github.com/srilakshmiimhskalirs/Time-Codes)
 
 Time-Codes repository consits of all codes related to TIME
 
