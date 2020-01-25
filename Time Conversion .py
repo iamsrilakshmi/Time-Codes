@@ -1,5 +1,5 @@
 def seconds_conversion(sec) :
-
+	
 	hours = sec // 3600
 	rem_sec = sec % 3600
 	minutes = rem_sec // 60
@@ -7,9 +7,7 @@ def seconds_conversion(sec) :
 
 	print(f'Standard Time is : \n{hours} HOURS : {minutes} MINUTES : {seconds} SECONDS ')
 
-
-
-
+	
 def minutes_conversion(mts):
 
 	hours = mts // 60
@@ -20,6 +18,7 @@ def minutes_conversion(mts):
 
 
 while True:
+	
 	print(' Enter 1 for seconds & 2 for Minutes & 3 to exit\n')
 	choice = input()
 
