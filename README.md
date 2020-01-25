@@ -1,6 +1,8 @@
 # Time-Codes
 
-Time-Codes repository is just a beginning.
+Time-Codes repository consits of all codes related to TIME
+
+This is just a beginning.
 
 More codes will be added in the following days.
 
