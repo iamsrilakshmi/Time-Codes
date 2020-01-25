@@ -7,7 +7,6 @@ def seconds_conversion(sec) :
 
 	print(f'Standard Time is : \n{hours} HOURS : {minutes} MINUTES : {seconds} SECONDS ')
 
-#seconds_conversion(5000)
 
 
 
@@ -18,7 +17,6 @@ def minutes_conversion(mts):
 
 	print(f'Standard Time is : \n{hours} Hours : {minutes} Minutes ')
 
-#minutes_conversion(122)
 
 
 while True:
